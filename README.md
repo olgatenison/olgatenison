@@ -9,7 +9,7 @@
 <a href="[https://developer.mozilla.org](https://github.com/olgatenison/Bookshelf)">
   <i class="devicon-github-original"></i>
 </a>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+
  ["Bookshelf"](https://oleksandrkravcuk.github.io/Runners-of-code/) is a vanilla JavaScript group project designed for browsing and collecting detailed book information. Users can easily add/remove books from the cart. The project includes various features such as authentication, a dark/light theme switch, a "Scroll Up" button, a loader, and user-friendly navigation.
 
 
