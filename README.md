@@ -18,5 +18,7 @@
 - ["Plants"](https://olgatenison.github.io/Plants/)  - plants is a project centered around crafting a landing page for a gardening service. The objective was to design an adaptive and interactive website for plant enthusiasts, with the added assurance that the layout has been faithfully recreated to be pixel-perfect.
 
 - ["Relvise"](https://olgatenison.github.io/relvise/) - project of landing page for a company Relvise. The page is fully adaptive. The goal was to use the most simple layout solutions. So it was used such technologies as flex and BEM.
+  
+- [Digital Clock](https://olgatenison.github.io/digitalClock/) - a simple web application that displays the current time.
 
 
