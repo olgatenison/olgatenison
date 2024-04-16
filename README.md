@@ -7,6 +7,8 @@
 
 ## Prodjects
 
+- ["Water Tracker"]([https://oleksandrkravcuk.github.io/Runners-of-code/](https://denys90.github.io/tracker-of-water-frontend/)) A team project, this web application effortlessly tracks water intake. It calculates personalized intake based on user data, allowing for easy registration and management of consumption records. It provides visual monitoring, detailed statistics, and goal setting to promote a healthier lifestyle.
+  
 - ["Bookshelf"](https://oleksandrkravcuk.github.io/Runners-of-code/) is a vanilla JavaScript group project designed for browsing and collecting detailed book information. Users can easily add/remove books from the cart. The project includes various features such as authentication, a dark/light theme switch, a "Scroll Up" button, a loader, and user-friendly navigation.
 
 - ["Movie Search"](https://olgatenison.github.io/movie-search/) - this project is a React application for searching and displaying movie information. It uses the themoviedb.org API to fetch data about movies, actors, and reviews.
