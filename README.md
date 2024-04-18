@@ -5,7 +5,7 @@
   <p>I code and design stuff. Learning every day.  Currently into Frontend Development and Design. <br/>Let's create something awesome together! 🚀</p>
 </div>
 
-## Prodjects
+## Projects
 
 - ["Water Tracker"](https://denys90.github.io/tracker-of-water-frontend/) A team project, this web application effortlessly tracks water intake. It calculates personalized intake based on user data, allowing for easy registration and management of consumption records. It provides visual monitoring, detailed statistics, and goal setting to promote a healthier lifestyle.
   
