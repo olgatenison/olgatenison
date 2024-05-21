@@ -7,7 +7,7 @@
 
 ## Projects
 
-- ["Next Choco"](https://next-choco.vercel.app/) is a web application for an online chocolate store built with Next.js framework. Technologies Used:
+- ["Next Choco"](https://next-choco.vercel.app/) is a web application for an online chocolate store built using the Next.js framework. This project demonstrates various features and best practices for building modern web applications with React and Next.js. Technologies Used:
 JavaScript, React, Next.js, CSS Modules, Context API, SWR [code](https://github.com/olgatenison/next-choco)
 
 - ["Van Voyage"](https://olgatenison.github.io/van-voyage/) This project is a web application for renting campers in Ukraine. It was implemented using technologies such as React, React Router, Emotion, Axios, and Redux. Currently, the application is available according to the layout on desktop screens of 1440px. [code](https://github.com/olgatenison/van-voyage)
