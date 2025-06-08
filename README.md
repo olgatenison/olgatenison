@@ -7,6 +7,8 @@
 
 ## Projects
 
+- ["Plastiliin 2025"](https://www.plastiliin.com/et/home-et) A handcrafted landing page built with Next.js and Tailwind CSS, featuring custom branding, multilingual support, and SEO-ready architecture — made for a real Estonian child development studio. [plastiliin.com](https://www.plastiliin.com/et/home-et)
+
 - ["Next Choco"](https://next-choco.vercel.app/) is a web application for an online chocolate store built using the Next.js framework. This project demonstrates various features and best practices for building modern web applications with React and Next.js. Technologies Used:
 JavaScript, React, Next.js, CSS Modules, Context API, SWR [code](https://github.com/olgatenison/next-choco)
 
