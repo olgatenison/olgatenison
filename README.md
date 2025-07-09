@@ -2,7 +2,8 @@
 <div id='header' align='center'>
   <h1>👋 Hello! I am Olga.</h1>
   <h3>I’m a Fullstack Developer & Designer based in Tallinn.</h3>
-  <p>I craft seamless user experiences and build powerful web applications from concept to launch. Always learning, always creating.
+  <p>I craft seamless user experiences and build powerful web applications from concept to launch.</p>
+    <p>Always learning, always creating.
 Let’s build something amazing together! 🚀</p>
 </div>
 
