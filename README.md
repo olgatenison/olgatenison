@@ -6,13 +6,8 @@
     <p>Always learning, always creating.
 Let’s build something amazing together! 🚀</p>
 
-
-
 </div>
--------
-🌐 Languages: 🇺🇦 Ukrainian (native), 🇬🇧 English (B2), 🇪🇪 Estonian (B1+)
 
-------
 ## Projects
 
 - ["Plastiliin 2025"](https://www.plastiliin.com/et/home-et) A handcrafted landing page built with Next.js and Tailwind CSS, featuring custom branding, multilingual support, and SEO-ready architecture — made for a real Estonian child development studio. [plastiliin.com](https://www.plastiliin.com/et/home-et) [code](https://github.com/olgatenison/plastiliin-landing-2025)
