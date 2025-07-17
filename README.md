@@ -9,7 +9,13 @@ Let’s build something amazing together! 🚀</p>
 
 
 </div>
-  🌐 Languages: ![UA](https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png) Ukrainian (native), ![GB](https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png) English (B2), ![EE](https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png) Estonian (B1+)
+-------
+  🌐 Languages: 
+<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png" width="20"/> Ukrainian (native),
+<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png" width="20"/> English (B2),
+<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png" width="20"/> Estonian (B1+)
+
+------
 ## Projects
 
 - ["Plastiliin 2025"](https://www.plastiliin.com/et/home-et) A handcrafted landing page built with Next.js and Tailwind CSS, featuring custom branding, multilingual support, and SEO-ready architecture — made for a real Estonian child development studio. [plastiliin.com](https://www.plastiliin.com/et/home-et) [code](https://github.com/olgatenison/plastiliin-landing-2025)
