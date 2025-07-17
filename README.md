@@ -5,6 +5,8 @@
   <p>I craft seamless user experiences and build powerful web applications from concept to launch.</p>
     <p>Always learning, always creating.
 Let’s build something amazing together! 🚀</p>
+
+   <p><strong>🌐 Languages:</strong> 🇺🇦 Ukrainian (native), 🇬🇧 English (B2), 🇪🇪 Estonian (B1+)</p>
 </div>
 
 ## Projects
