@@ -10,10 +10,7 @@ Let’s build something amazing together! 🚀</p>
 
 </div>
 -------
-  🌐 Languages: 
-<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png" width="20"/> Ukrainian (native),
-<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png" width="20"/> English (B2),
-<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png" width="20"/> Estonian (B1+)
+🌐 Languages: 🇺🇦 Ukrainian (native), 🇬🇧 English (B2), 🇪🇪 Estonian (B1+)
 
 ------
 ## Projects
