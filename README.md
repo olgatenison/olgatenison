@@ -10,11 +10,11 @@ Let’s build something amazing together! 🚀</p>
 
 ## Projects
 
-- ["Plastiliin 2025"](https://www.plastiliin.com/et/home-et) A handcrafted landing page built with Next.js and Tailwind CSS, featuring custom branding, multilingual support, and SEO-ready architecture — made for a real Estonian child development studio. [plastiliin.com](https://www.plastiliin.com/et/home-et) [code](https://github.com/olgatenison/plastiliin-landing-2025)
+- ["Plastiliin 2025"](https://www.plastiliin.com/et/home-et) A handcrafted landing page built with Next.js and Tailwind CSS, featuring custom branding, multilingual support, and SEO-ready architecture — made for a real Estonian child development studio. [plastiliin.com](https://www.plastiliin.com/et/home-et)
 
-- [Osteopathy with Ruslan Gulyshevsky](https://www.osteobodyhacking.ee/) is not just a landing page for an osteopathic practice. It is a full-fledged web application, developed using the latest technologies, designed to meet specific business needs of the client — osteopath Ruslan Gulyshevsky, who has recently opened his practice in Tallinn. [osteobodyhacking.ee](https://www.osteobodyhacking.ee/) [code](https://github.com/olgatenison/osteopathy)
+- [Osteopathy with Ruslan Gulyshevsky](https://www.osteobodyhacking.ee/) is not just a landing page for an osteopathic practice. It is a full-fledged web application, developed using the latest technologies, designed to meet specific business needs of the client — osteopath Ruslan Gulyshevsky, who has recently opened his practice in Tallinn. [osteobodyhacking.ee](https://www.osteobodyhacking.ee/) 
   
-- [🎤 Girls Rule! | Stand-Up Tallinn 2025](https://standup-tallinn.netlify.app/) A stylish single-page event site for a women's stand-up comedy night in Tallinn. Built for fast and simple seat booking — no payments, just good vibes and a real-time booking tracker 💥 [code](https://github.com/olgatenison/standup-tallinn)
+- [🎤 Girls Rule! | Stand-Up Tallinn 2025](https://standup-tallinn.netlify.app/) A stylish single-page event site for a women's stand-up comedy night in Tallinn. Built for fast and simple seat booking — no payments, just good vibes and a real-time booking tracker 💥 
 
 - ["Next Choco"](https://next-choco.vercel.app/) is a web application for an online chocolate store built using the Next.js framework. This project demonstrates various features and best practices for building modern web applications with React and Next.js. Technologies Used:
 JavaScript, React, Next.js, CSS Modules, Context API, SWR [code](https://github.com/olgatenison/next-choco)
