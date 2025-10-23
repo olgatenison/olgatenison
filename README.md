@@ -10,6 +10,8 @@ Let’s build something amazing together! 🚀</p>
 
 ## Projects
 
+-[Forma Expo](https://expo-prew.vercel.app/) A production-ready corporate site for a UK-based exhibition stand contractor. It showcases the portfolio, an exhibition calendar, services, partners, gallery, FAQs, and a contact/enquiry form. Content is managed in Contentful; the site uses Next.js (App Router) with Tailwind CSS, Incremental Static Regeneration (ISR), image optimization, and accessibility aligned with WCAG 2.2 AA.
+
 - ["Plastiliin 2025"](https://www.plastiliin.com/et/home-et) A handcrafted landing page built with Next.js and Tailwind CSS, featuring custom branding, multilingual support, and SEO-ready architecture — made for a real Estonian child development studio. [plastiliin.com](https://www.plastiliin.com/et/home-et)
 
 - [Osteopathy with Ruslan Gulyshevsky](https://www.osteobodyhacking.ee/) is not just a landing page for an osteopathic practice. It is a full-fledged web application, developed using the latest technologies, designed to meet specific business needs of the client — osteopath Ruslan Gulyshevsky, who has recently opened his practice in Tallinn. [osteobodyhacking.ee](https://www.osteobodyhacking.ee/) 
