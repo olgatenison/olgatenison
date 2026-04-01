@@ -12,6 +12,8 @@ Let’s build something amazing together! 🚀</p>
 
 - [Forma Expo](https://expo-prew.vercel.app/) A production-ready corporate site for a UK-based exhibition stand contractor. It showcases the portfolio, an exhibition calendar, services, partners, gallery, FAQs, and a contact/enquiry form. Content is managed in Contentful; the site uses Next.js (App Router) with Tailwind CSS, Incremental Static Regeneration (ISR), image optimization, and accessibility aligned with WCAG 2.2 AA.
 
+- **[Foamix](https://foamix.com.ua/)** Foamix is a modern landing page for a company that provides polyurethane foam (PU foam) insulation services across Ukraine. [foamix.com.ua](https://foamix.com.ua/)
+
 - **[iProk — Engineering Building System](https://www.iprok.com.ua/)** A modern, high-performance landing website for iProk — an engineering prefabricated construction system where the frame, insulation, and cladding work as a single integrated structure. Built with Next.js (App Router), TypeScript, Tailwind CSS, and Contentful (footer content). Includes cookie consent (localStorage-based), Privacy Policy page, semantic & accessibility-friendly markup, SEO metadata (OpenGraph/Twitter), and optimized images via next/image. [iprok.com.ua](https://www.iprok.com.ua/)
 
 - [Children's Cancer Support Initiative](https://www.ccsi.org.ua/uk)A bilingual (UA/EN) Next.js site for a parent-led NGO in Ukraine that helps children with cancer. The project raises donations, supports families at Ohmatdyt, recruits volunteers, and publishes transparent docs. [ccsi.org.ua](https://www.ccsi.org.ua/uk)
