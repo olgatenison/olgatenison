@@ -10,7 +10,9 @@ Let’s build something amazing together! 🚀</p>
 
 ## Projects
 
-- [Forma Expo](https://expo-prew.vercel.app/) A production-ready corporate site for a UK-based exhibition stand contractor. It showcases the portfolio, an exhibition calendar, services, partners, gallery, FAQs, and a contact/enquiry form. Content is managed in Contentful; the site uses Next.js (App Router) with Tailwind CSS, Incremental Static Regeneration (ISR), image optimization, and accessibility aligned with WCAG 2.2 AA.
+- **[Detailica](https://www.detailica.com/)** A modern corporate website for an international architecture, structural engineering, and BIM support company. The site presents services, selected project experience, international workflow expertise, and a contact form. Built with a clean, professional layout focused on technical delivery, project documentation, BIM coordination, and responsive user experience. [detailica.com](https://www.detailica.com/)
+
+- **[Forma Expo](https://expo-prew.vercel.app/)** A production-ready corporate site for a UK-based exhibition stand contractor. It showcases the portfolio, an exhibition calendar, services, partners, gallery, FAQs, and a contact/enquiry form. Content is managed in Contentful; the site uses Next.js (App Router) with Tailwind CSS, Incremental Static Regeneration (ISR), image optimization, and accessibility aligned with WCAG 2.2 AA.
 
 - **[Foamix](https://foamix.com.ua/)** Foamix is a modern landing page for a company that provides polyurethane foam (PU foam) insulation services across Ukraine. [foamix.com.ua](https://foamix.com.ua/)
 
